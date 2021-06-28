@@ -1,6 +1,6 @@
-# Aplicacion del clima basado en cordendas de latitud y longitud consumiendo
-
-# dos api's con el paquete de terceros axios
+# Aplicacion del clima 
+basado en cordendas de latitud y longitud consumiendo
+dos api's con el paquete de terceros axios
 
 # Menú principal
 
